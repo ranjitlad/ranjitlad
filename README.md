@@ -1,4 +1,4 @@
-# Hello, I'm Ranjit Lad! 👋
+# Hello, I'm Ranjit Lad 
 
 I'm a Software Developer based in Sangli. I'm passionate about .Net Full Stack Developer.
 
