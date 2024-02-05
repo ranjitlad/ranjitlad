@@ -1,6 +1,6 @@
 # Hello, I'm Ranjit Lad! 👋
 
-I'm a Software Developer based in Sangli. I'm passionate about .Net Full stackDeveloper.
+I'm a Software Developer based in Sangli. I'm passionate about .Net Full Stack Developer.
 
 ## 🔧 Technologies & Tools
 
