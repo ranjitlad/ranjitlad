@@ -4,8 +4,17 @@ I'm a Software Developer based in Sangli. I'm passionate about .Net Full Stack D
 
 ## 🔧 Technologies & Tools
 
-- Technologies : .Net,Java,Angular,Sql Server
-- Tools & Technologies: Visiual Studio Code , Visual Studio
+🖥 Frontend
+
+Angular (Components, Services, Routing, Guards)
+
+TypeScript, JavaScript (ES6+)
+
+HTML5, CSS3, Bootstrap
+
+AG-Grid, Chart.js
+
+Responsive UI & performance optimization
 
 ## 💼 Professional Experience
 
