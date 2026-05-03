@@ -1,6 +1,8 @@
 # Hello, I'm Ranjit Lad 
 
-I'm a Software Developer based in Sangli. I'm passionate about .Net Full Stack Developer.
+I'm a Full Stack Developer 💻
+Passionate about .NET Full Stack Development 🚀
+Currently working at Munimjis IT Solutions Pvt. Ltd.
 
 ## 🔧 Technologies & Tools
 
@@ -50,7 +52,7 @@ Basic CI/CD knowledge
 
 ## 💼 Professional Experience
 
-- Software Developer at Munimji's IT Solution Pvt. Ltd , Sangli (2022 - Present)
+- Software Developer at Munimji's IT Solution Pvt. Ltd , Sangli (2023 - Present)
 
 ## 📫 How to reach me
 
