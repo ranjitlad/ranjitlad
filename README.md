@@ -56,8 +56,9 @@ Basic CI/CD knowledge
 
 ## 📫 How to reach me
 
-- LinkedIn:linkedin.com/in/ranjit-lad-817b08225
-- Email: ranjitladsangli@gmail.com
+- 🔗 LinkedIn: https://linkedin.com/in/ranjit-lad-817b08225
+
+- 📧 Email: ranjit.lad08@gmail.com
 
 
 
