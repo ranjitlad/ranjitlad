@@ -20,7 +20,7 @@ Responsive UI & performance optimization
 
 ⚙️ Backend
 
-C# .NET / ASP.NET Web API
+C# .NET , Asp.Net Core , Entity Framework
 
 RESTful API design
 
