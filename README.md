@@ -10,7 +10,7 @@ Currently working at Munimjis IT Solutions Pvt. Ltd.
 
 Angular (Components, Services, Routing, Guards)
 
-TypeScript, JavaScript (ES6+)
+TypeScript, JavaScript 
 
 HTML5, CSS3, Bootstrap
 
